@@ -23,7 +23,7 @@
 ## 贡献
 欢迎提交 Pull Requests 以扩展或优化本项目！请确保你的代码格式整洁，且附带适当的注释说明。
 
-##许可协议
+## 许可协议
 
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
